@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I am Jaehwan Kim 🙂
-Hi there! I'm Jaehwan Kim, currently based in Toronto, Canada. You can reach me at kkjaehwan@gmail.com. I'm a passionate developer with a keen focus on creating customer-centric products. I believe in contributing effectively to team objectives while maintaining top-notch quality standards. Feel free to check out my portfolio at [Portfolio](https://jaehwankim.vercel.app) and connect with me on [LinkedIn](https://www.linkedin.com/in/kim-jaehwan)  . Let's create something awesome together!
+Hi there! I'm Jaehwan Kim, currently based in Toronto, Canada. You can reach me at kkjaehwan@gmail.com. I'm a passionate developer with a keen focus on creating customer-centric products. I believe in contributing effectively to team objectives while maintaining top-notch quality standards. Feel free to check out my portfolio at [Portfolio](https://servith.com) and connect with me on [LinkedIn](https://www.linkedin.com/in/kim-jaehwan)  . Let's create something awesome together!
 
 ## 🤓Skills
 
